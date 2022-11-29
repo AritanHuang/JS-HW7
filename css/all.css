@@ -238,11 +238,11 @@ body {
         padding-bottom: 30px;
     }
 }
-#donut-chart {
+/* #donut-chart {
     margin: 0px 100px;
     width: 30%;
     height: auto;
-}
+} */
 
 .search-area {
     display: -webkit-box;

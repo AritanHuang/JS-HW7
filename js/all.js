@@ -207,6 +207,10 @@ function renderC3() {
         },
         donut: {
             title: "套票地區比重"
+        },
+        size: {
+            width: 250,
+            height: 250
         }
     });
 }
