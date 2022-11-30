@@ -4,6 +4,10 @@ axios.get('https://raw.githubusercontent.com/hexschool/js-training/main/travelAp
     renderData(data);
     renderC3();
 })
+    .catch(function (error) {//呼叫 API 發生錯誤時，可以執行處理或印出錯誤的程式
+        // handle error
+        console.log(error);
+    });
 
 
 
